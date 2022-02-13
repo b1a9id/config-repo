@@ -1,0 +1,4 @@
+settings:
+  client:
+    message: This is client message for production.
+
